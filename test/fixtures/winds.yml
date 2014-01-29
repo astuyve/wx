@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  airport_code: MyString
+  direction: 1
+  speed: 1
+
+two:
+  airport_code: MyString
+  direction: 1
+  speed: 1
